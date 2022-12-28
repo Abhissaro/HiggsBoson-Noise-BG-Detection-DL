@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Higgs_Boson_p1.py
